@@ -1,0 +1,19 @@
+Chattogram - South East Hill Basin 1
+Dinajpur - Ganges Basin 1
+Cox's Bazar - South East Hill Basin 2
+Sirajganj - Brahmaputra Basin 1
+Rajshahi - Ganges Basin 2
+Habiganj - Meghna Basin 1
+Bandarban - South East Hill Basin 3
+Chuadanga - Ganges Basin 3
+Jamalpur - Brahmaputra Basin 2
+Sylhet - Meghna Basin 2
+Nilphamari - Brahmaputra Basin 3
+Bogra - Brahmaputra Basin 4
+Dhaka - Brahmaputra Basin 5
+Mymensingh - Brahmaputra Basin 6
+natrokona - Brahmaputra Basin 7
+Rangpur - Brahmaputra Basin 8
+Rangamati - South East Hill Basin 4
+teknaf - South East Hill Basin 5
+sreemongol - Meghna Basin 3
